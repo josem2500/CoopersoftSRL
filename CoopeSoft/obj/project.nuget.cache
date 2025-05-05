@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BF4AXRJXZgY=",
+  "dgSpecHash": "BvqIO8fuSsY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Jose\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

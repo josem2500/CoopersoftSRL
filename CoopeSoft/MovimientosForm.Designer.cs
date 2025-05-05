@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            lstMovimientos = new ListBox();
+            dgvMovimientos = new ListBox();
             cmbTipo = new ComboBox();
             txtMonto = new TextBox();
             txtDescripcion = new TextBox();
@@ -36,49 +36,54 @@
             button1 = new Button();
             SuspendLayout();
             // 
-            // lstMovimientos
+            // dgvMovimientos
             // 
-            lstMovimientos.FormattingEnabled = true;
-            lstMovimientos.ItemHeight = 25;
-            lstMovimientos.Location = new Point(57, 68);
-            lstMovimientos.Name = "lstMovimientos";
-            lstMovimientos.Size = new Size(534, 129);
-            lstMovimientos.TabIndex = 0;
+            dgvMovimientos.FormattingEnabled = true;
+            dgvMovimientos.Location = new Point(46, 65);
+            dgvMovimientos.Margin = new Padding(2);
+            dgvMovimientos.Name = "dgvMovimientos";
+            dgvMovimientos.Size = new Size(428, 104);
+            dgvMovimientos.TabIndex = 0;
+            dgvMovimientos.SelectedIndexChanged += lstMovimientos_SelectedIndexChanged;
             // 
             // cmbTipo
             // 
             cmbTipo.FormattingEnabled = true;
             cmbTipo.Items.AddRange(new object[] { "Depósito", "Retiro", "Pago de préstamo" });
-            cmbTipo.Location = new Point(57, 232);
+            cmbTipo.Location = new Point(46, 186);
+            cmbTipo.Margin = new Padding(2);
             cmbTipo.Name = "cmbTipo";
-            cmbTipo.Size = new Size(182, 33);
+            cmbTipo.Size = new Size(146, 28);
             cmbTipo.TabIndex = 1;
             cmbTipo.Text = "Seleccione";
             cmbTipo.SelectedIndexChanged += cmbTipo_SelectedIndexChanged;
             // 
             // txtMonto
             // 
-            txtMonto.Location = new Point(325, 234);
+            txtMonto.Location = new Point(260, 187);
+            txtMonto.Margin = new Padding(2);
             txtMonto.Name = "txtMonto";
             txtMonto.PlaceholderText = "Monto";
-            txtMonto.Size = new Size(266, 31);
+            txtMonto.Size = new Size(214, 27);
             txtMonto.TabIndex = 2;
             txtMonto.TextChanged += txtMonto_TextChanged;
             // 
             // txtDescripcion
             // 
-            txtDescripcion.Location = new Point(57, 295);
+            txtDescripcion.Location = new Point(46, 236);
+            txtDescripcion.Margin = new Padding(2);
             txtDescripcion.Name = "txtDescripcion";
             txtDescripcion.PlaceholderText = "Descripcion";
-            txtDescripcion.Size = new Size(534, 31);
+            txtDescripcion.Size = new Size(428, 27);
             txtDescripcion.TabIndex = 3;
             txtDescripcion.TextChanged += txtDescripcion_TextChanged;
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(57, 373);
+            btnAgregar.Location = new Point(46, 298);
+            btnAgregar.Margin = new Padding(2);
             btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(112, 34);
+            btnAgregar.Size = new Size(90, 27);
             btnAgregar.TabIndex = 4;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = true;
@@ -86,9 +91,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(402, 373);
+            button1.Location = new Point(322, 298);
+            button1.Margin = new Padding(2);
             button1.Name = "button1";
-            button1.Size = new Size(189, 34);
+            button1.Size = new Size(151, 27);
             button1.TabIndex = 5;
             button1.Text = "Regresar";
             button1.UseVisualStyleBackColor = true;
@@ -96,15 +102,16 @@
             // 
             // MovimientosForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(640, 360);
             Controls.Add(button1);
             Controls.Add(btnAgregar);
             Controls.Add(txtDescripcion);
             Controls.Add(txtMonto);
             Controls.Add(cmbTipo);
-            Controls.Add(lstMovimientos);
+            Controls.Add(dgvMovimientos);
+            Margin = new Padding(2);
             Name = "MovimientosForm";
             Text = "Movimientos";
             ResumeLayout(false);
@@ -113,7 +120,7 @@
 
         #endregion
 
-        private ListBox lstMovimientos;
+        private ListBox dgvMovimientos;
         private ComboBox cmbTipo;
         private TextBox txtMonto;
         private TextBox txtDescripcion;

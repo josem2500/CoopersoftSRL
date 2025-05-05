@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj": {}
+    "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj": {
+    "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
         "projectName": "CoopeSoft",
-        "projectPath": "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
+        "projectPath": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\CoopeSoft.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\Desktop\\rama\\CoopeSoft\\CoopeSoft\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

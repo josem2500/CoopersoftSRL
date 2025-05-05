@@ -25,9 +25,13 @@ namespace CoopeSoft
         public PrestamosForm()
         {
             InitializeComponent();
-            CargarPrestamosEjemplo();
-            ActualizarListaPrestamos();
+            //CargarPrestamos();
+            //CargarSociosCombo();
+            //CargarPrestamosEjemplo();
+            //ActualizarListaPrestamos();
         }
+
+
 
         private void CargarPrestamosEjemplo()
         {
