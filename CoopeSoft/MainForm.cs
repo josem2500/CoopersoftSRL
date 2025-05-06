@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static CoopeSoft.SociosForm;
 
 namespace CoopeSoft
 {
@@ -14,11 +15,13 @@ namespace CoopeSoft
     {
         private bool esAdministrador;
         private string nombreUsuario;
-       
 
-       
-        
-        public MainForm(bool esAdmin, string nombreUsuario)
+        private readonly bool _esAdmin;
+        private readonly string _nombreUsuario;
+        private int _idSocioActual;
+
+        /*bool esAdmin, string nombreUsuario*/
+        public MainForm(bool esAdmin, string nombreUsuario, int idSocioActual = 0)
         {
             InitializeComponent();
             this.esAdministrador = esAdmin;
@@ -26,6 +29,15 @@ namespace CoopeSoft
 
             ConfigurarVistasSegunRol();
             MostrarBienvenida();
+            _esAdmin = esAdmin;
+            _nombreUsuario = nombreUsuario;
+            _idSocioActual = idSocioActual;
+
+            // Configurar UI según el rol
+            //lblBienvenida.Text = $"Bienvenido, {_nombreUsuario}";
+            btnSocios.Visible = _esAdmin;
+            btnTodosPrestamos.Visible = _esAdmin;
+            btnPrestamos.Text = _esAdmin ? "Gestionar Préstamos" : "Solicitar Préstamo";
         }
         private void ConfigurarVistasSegunRol()
         {
@@ -50,7 +62,10 @@ namespace CoopeSoft
 
         private void btnPrestamos_Click(object sender, EventArgs e)
         {
-            SolicitarPrestamoForm prestamoForm = new SolicitarPrestamoForm();
+            
+
+            int idSocioActual = 1;
+            SolicitarPrestamoForm prestamoForm = new SolicitarPrestamoForm(idSocioActual);
             prestamoForm.ShowDialog();
         }
 

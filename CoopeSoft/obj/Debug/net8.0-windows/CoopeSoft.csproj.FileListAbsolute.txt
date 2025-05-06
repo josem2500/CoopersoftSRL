@@ -72,3 +72,4 @@ C:\Users\Jose\Desktop\IGN SOFT2\c\CoopeSoft\CoopeSoft\bin\Debug\net8.0-windows\r
 C:\Users\Jose\Desktop\IGN SOFT2\c\CoopeSoft\CoopeSoft\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Jose\Desktop\IGN SOFT2\c\CoopeSoft\CoopeSoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\Jose\Desktop\IGN SOFT2\c\CoopeSoft\CoopeSoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jose\Desktop\IGN SOFT2\c\CoopeSoft\CoopeSoft\obj\Debug\net8.0-windows\CoopeSoft.RegistrarSocioForm.resources

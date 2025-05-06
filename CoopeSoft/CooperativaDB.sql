@@ -12,6 +12,11 @@ CREATE TABLE Usuarios (
 );
 GO
 
+ALTER TABLE Usuarios
+ADD IdSocio INT NULL,
+    Email NVARCHAR(100) NULL,
+    FOREIGN KEY (IdSocio) REFERENCES Socios(Id);
+
 -- Tabla Socios
 CREATE TABLE Socios (
     Id INT PRIMARY KEY IDENTITY(1,1),
@@ -145,6 +150,30 @@ VALUES
 ('DIAS_GRACIA', '5', 'Días de gracia para pagos', 'Numero');
 GO
 
+
+INSERT INTO Prestamos (SocioID, TipoPrestamoID, Monto, SaldoPendiente, TasaInteres, PlazoMeses, FechaSolicitud, FechaAprobacion, FechaFinalizacion, Estado, Observaciones)
+VALUES 
+(1, 1, 50000.00, 50000.00, 12.00, 24, '2025-05-01', '2025-05-02', NULL, 'Aprobado', 'Préstamo para equipo de oficina'),
+(2, 2, 200000.00, 200000.00, 8.50, 60, '2025-05-03', NULL, NULL, 'Pendiente', 'Solicitud en revisión'),
+(3, 3, 10000.00, 10000.00, 15.00, 12, '2025-05-04', '2025-05-04', NULL, 'Aprobado', 'Préstamo para emergencia médica');
+GO
+
+INSERT INTO CuotasPrestamos (PrestamoID, NumeroCuota, MontoCuota, FechaVencimiento, FechaPago, MontoPagado, Estado, Interes, Capital)
+VALUES 
+(1, 1, 2300.00, '2025-06-01', NULL, 0.00, 'Pendiente', 500.00, 1800.00),
+(1, 2, 2300.00, '2025-07-01', NULL, 0.00, 'Pendiente', 480.00, 1820.00),
+(1, 3, 2300.00, '2025-08-01', '2025-05-04', 2300.00, 'Pagada', 460.00, 1840.00);
+GO
+
+INSERT INTO Movimientos (SocioID, TipoMovimientoID, Monto, Fecha, Descripcion, Referencia, UsuarioID, PrestamoID)
+VALUES 
+(1, 1, 10000.00, '2025-05-01', 'Depósito inicial de ahorros', 'AH001', 1, NULL),
+(2, 2, 5000.00, '2025-05-02', 'Retiro de fondos', 'RT001', 2, NULL),
+(3, 3, 2300.00, '2025-05-04', 'Pago de cuota 3', 'CUOTA003', 3, 1),
+(3, 4, 200.00, '2025-05-04', 'Interés por ahorros', 'INT001', 1, NULL),
+(2, 5, 500.00, '2025-05-05', 'Multa por retraso', 'MULTA001', 1, NULL);
+GO
+
 SELECT * FROM Socios;
 SELECT * FROM Usuarios;
 SELECT * FROM TiposPrestamo;
@@ -154,3 +183,15 @@ SELECT * FROM Configuraciones;
 SELECT * FROM Prestamos;
 SELECT * FROM CuotasPrestamos;
 SELECT * FROM Movimientos;
+
+SELECT TipoMovimientoID, Nombre FROM TiposMovimiento;
+
+INSERT INTO Usuarios (Username, Password, Rol, NombreCompleto)
+VALUES 
+('admin', 'jZae727K08KaOmKSgOaGzww/XVqGr/PKEg8K2p9nog=', 'admin', 'Administrador Principal'),
+('socio1', 'p3C8vL9xQ2rT5uY7zA1bM4nK6=', 'socio', 'Juan Pérez'),
+('socio2', 'kW2xN7pQ9rT3vY5zB8cM1nL4=', 'socio', 'María García');
+
+UPDATE Usuarios SET IdSocio = 2, Email = 'juan@example.com' WHERE Username = 'socio1';
+UPDATE Usuarios SET IdSocio = 3, Email = 'maria@example.com' WHERE Username = 'socio2';
+UPDATE Usuarios SET Email = 'admin@example.com' WHERE Username = 'admin';

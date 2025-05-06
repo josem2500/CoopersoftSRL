@@ -39,10 +39,10 @@
             // dgvMovimientos
             // 
             dgvMovimientos.FormattingEnabled = true;
-            dgvMovimientos.Location = new Point(46, 65);
+            dgvMovimientos.Location = new Point(46, 21);
             dgvMovimientos.Margin = new Padding(2);
             dgvMovimientos.Name = "dgvMovimientos";
-            dgvMovimientos.Size = new Size(428, 104);
+            dgvMovimientos.Size = new Size(494, 224);
             dgvMovimientos.TabIndex = 0;
             dgvMovimientos.SelectedIndexChanged += lstMovimientos_SelectedIndexChanged;
             // 
@@ -50,7 +50,7 @@
             // 
             cmbTipo.FormattingEnabled = true;
             cmbTipo.Items.AddRange(new object[] { "Depósito", "Retiro", "Pago de préstamo" });
-            cmbTipo.Location = new Point(46, 186);
+            cmbTipo.Location = new Point(46, 259);
             cmbTipo.Margin = new Padding(2);
             cmbTipo.Name = "cmbTipo";
             cmbTipo.Size = new Size(146, 28);
@@ -60,7 +60,7 @@
             // 
             // txtMonto
             // 
-            txtMonto.Location = new Point(260, 187);
+            txtMonto.Location = new Point(326, 259);
             txtMonto.Margin = new Padding(2);
             txtMonto.Name = "txtMonto";
             txtMonto.PlaceholderText = "Monto";
@@ -70,17 +70,17 @@
             // 
             // txtDescripcion
             // 
-            txtDescripcion.Location = new Point(46, 236);
+            txtDescripcion.Location = new Point(46, 334);
             txtDescripcion.Margin = new Padding(2);
             txtDescripcion.Name = "txtDescripcion";
             txtDescripcion.PlaceholderText = "Descripcion";
-            txtDescripcion.Size = new Size(428, 27);
+            txtDescripcion.Size = new Size(494, 27);
             txtDescripcion.TabIndex = 3;
             txtDescripcion.TextChanged += txtDescripcion_TextChanged;
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(46, 298);
+            btnAgregar.Location = new Point(46, 412);
             btnAgregar.Margin = new Padding(2);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(90, 27);
@@ -91,7 +91,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(322, 298);
+            button1.Location = new Point(389, 412);
             button1.Margin = new Padding(2);
             button1.Name = "button1";
             button1.Size = new Size(151, 27);
@@ -104,7 +104,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(640, 360);
+            ClientSize = new Size(871, 494);
             Controls.Add(button1);
             Controls.Add(btnAgregar);
             Controls.Add(txtDescripcion);

@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sociosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\planpagosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\planpagosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,6 +15,26 @@
       "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\movimientosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\solicitarprestamoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\solicitarprestamoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,12 +43,52 @@
       "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\solicitarprestamoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\registrarsocioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\registrarsocioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\registrarsocioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\registrarsocioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\prestamosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\solicitarprestamoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\solicitarprestamoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\sociosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\sociosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|c:\\users\\jose\\desktop\\ign soft2\\c\\coopesoft\\coopesoft\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A829E-5744-466F-9882-C96109908AD5}|CoopeSoft\\CoopeSoft.csproj|solutionrelative:coopesoft\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,8 +98,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:15:20.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
+              "RelativeToolTip": "CoopeSoft\\Form1.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwOAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:19:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\MovimientosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
+              "RelativeToolTip": "CoopeSoft\\MovimientosForm.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:02:41.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Program.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Program.cs",
+              "RelativeToolTip": "CoopeSoft\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:29:16.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SociosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\SociosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
+              "RelativeToolTip": "CoopeSoft\\SociosForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAowNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:41:35.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanPagosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PlanPagosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\PlanPagosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PlanPagosForm.cs",
+              "RelativeToolTip": "CoopeSoft\\PlanPagosForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:44:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\MovimientosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\MovimientosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:01:07.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MainForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MainForm.cs",
+              "RelativeToolTip": "CoopeSoft\\MainForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:41:38.415Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -90,45 +216,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovimientosForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\MovimientosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs [Design]",
-              "RelativeToolTip": "CoopeSoft\\MovimientosForm.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "SolicitarPrestamoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\SolicitarPrestamoForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\SolicitarPrestamoForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:01:07.064Z",
+              "WhenOpened": "2025-04-30T23:22:56.547Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovimientosForm.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\MovimientosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MovimientosForm.cs",
-              "RelativeToolTip": "CoopeSoft\\MovimientosForm.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwDQAAAANAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "SolicitarPrestamoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\SolicitarPrestamoForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
+              "RelativeToolTip": "CoopeSoft\\SolicitarPrestamoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:02:41.282Z",
+              "WhenOpened": "2025-04-30T23:25:58.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "SociosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\SociosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\SociosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:39:11.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrarSocioForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\RegistrarSocioForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\RegistrarSocioForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\RegistrarSocioForm.cs",
+              "RelativeToolTip": "CoopeSoft\\RegistrarSocioForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:51:12.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarSocioForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\RegistrarSocioForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\RegistrarSocioForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\RegistrarSocioForm.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\RegistrarSocioForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:45:10.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrestamosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\PrestamosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
+              "RelativeToolTip": "CoopeSoft\\PrestamosForm.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAowM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:54:49.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrestamosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\PrestamosForm.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs [Design]",
+              "RelativeToolTip": "CoopeSoft\\PrestamosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:53:08.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\MainForm.Designer.cs",
+              "RelativeToolTip": "CoopeSoft\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:44:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "CoopeSoft\\DatabaseHelper.cs",
               "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\DatabaseHelper.cs",
               "RelativeToolTip": "CoopeSoft\\DatabaseHelper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwLUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T22:33:43.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
+              "Title": "SolicitarPrestamoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.Designer.cs",
+              "RelativeDocumentMoniker": "CoopeSoft\\SolicitarPrestamoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.Designer.cs",
+              "RelativeToolTip": "CoopeSoft\\SolicitarPrestamoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:19:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "SqlExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SqlExtensions.cs",
               "RelativeDocumentMoniker": "CoopeSoft\\SqlExtensions.cs",
@@ -140,55 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PrestamosForm.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\PrestamosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
-              "RelativeToolTip": "CoopeSoft\\PrestamosForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:54:49.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrestamosForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\PrestamosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\PrestamosForm.cs [Design]",
-              "RelativeToolTip": "CoopeSoft\\PrestamosForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:53:08.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SociosForm.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\SociosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
-              "RelativeToolTip": "CoopeSoft\\SociosForm.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:41:35.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SociosForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\SociosForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.cs [Design]",
-              "RelativeToolTip": "CoopeSoft\\SociosForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:39:11.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "SociosForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SociosForm.Designer.cs",
               "RelativeDocumentMoniker": "CoopeSoft\\SociosForm.Designer.cs",
@@ -196,59 +362,12 @@
               "RelativeToolTip": "CoopeSoft\\SociosForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:56:36.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
-              "RelativeToolTip": "CoopeSoft\\Form1.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAA3wEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:19:57.188Z",
+              "WhenOpened": "2025-04-30T23:56:36.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.cs [Design]",
-              "RelativeToolTip": "CoopeSoft\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:15:20.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SolicitarPrestamoForm.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\SolicitarPrestamoForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
-              "RelativeToolTip": "CoopeSoft\\SolicitarPrestamoForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:25:58.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SolicitarPrestamoForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\SolicitarPrestamoForm.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\SolicitarPrestamoForm.cs [Design]",
-              "RelativeToolTip": "CoopeSoft\\SolicitarPrestamoForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:22:56.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "CoopeSoft\\Form1.Designer.cs",
@@ -256,19 +375,8 @@
               "RelativeToolTip": "CoopeSoft\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T23:08:53.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Program.cs",
-              "RelativeDocumentMoniker": "CoopeSoft\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\IGN SOFT2\\c\\CoopeSoft\\CoopeSoft\\Program.cs",
-              "RelativeToolTip": "CoopeSoft\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:29:16.864Z"
+              "WhenOpened": "2025-05-04T23:08:53.429Z",
+              "EditorCaption": ""
             }
           ]
         }

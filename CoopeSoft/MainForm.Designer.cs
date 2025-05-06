@@ -36,9 +36,10 @@
             // 
             // btnSocios
             // 
-            btnSocios.Location = new Point(56, 82);
+            btnSocios.Location = new Point(31, 47);
+            btnSocios.Margin = new Padding(2);
             btnSocios.Name = "btnSocios";
-            btnSocios.Size = new Size(112, 34);
+            btnSocios.Size = new Size(125, 74);
             btnSocios.TabIndex = 0;
             btnSocios.Text = "Socio";
             btnSocios.UseVisualStyleBackColor = true;
@@ -46,9 +47,10 @@
             // 
             // btnPrestamos
             // 
-            btnPrestamos.Location = new Point(229, 82);
+            btnPrestamos.Location = new Point(192, 49);
+            btnPrestamos.Margin = new Padding(2);
             btnPrestamos.Name = "btnPrestamos";
-            btnPrestamos.Size = new Size(112, 34);
+            btnPrestamos.Size = new Size(124, 72);
             btnPrestamos.TabIndex = 1;
             btnPrestamos.Text = "Prestamos";
             btnPrestamos.UseVisualStyleBackColor = true;
@@ -56,9 +58,10 @@
             // 
             // btnMovimientos
             // 
-            btnMovimientos.Location = new Point(402, 82);
+            btnMovimientos.Location = new Point(362, 49);
+            btnMovimientos.Margin = new Padding(2);
             btnMovimientos.Name = "btnMovimientos";
-            btnMovimientos.Size = new Size(138, 34);
+            btnMovimientos.Size = new Size(171, 72);
             btnMovimientos.TabIndex = 2;
             btnMovimientos.Text = "Movimientos";
             btnMovimientos.UseVisualStyleBackColor = true;
@@ -66,23 +69,25 @@
             // 
             // btnTodosPrestamos
             // 
-            btnTodosPrestamos.Location = new Point(605, 82);
+            btnTodosPrestamos.Location = new Point(583, 49);
+            btnTodosPrestamos.Margin = new Padding(2);
             btnTodosPrestamos.Name = "btnTodosPrestamos";
-            btnTodosPrestamos.Size = new Size(112, 34);
+            btnTodosPrestamos.Size = new Size(271, 72);
             btnTodosPrestamos.TabIndex = 3;
-            btnTodosPrestamos.Text = "All prestamos";
+            btnTodosPrestamos.Text = "Todos los prestamos";
             btnTodosPrestamos.UseVisualStyleBackColor = true;
             btnTodosPrestamos.Click += btnTodosPrestamos_Click;
             // 
             // MainForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(909, 453);
             Controls.Add(btnTodosPrestamos);
             Controls.Add(btnMovimientos);
             Controls.Add(btnPrestamos);
             Controls.Add(btnSocios);
+            Margin = new Padding(2);
             Name = "MainForm";
             Text = "MainForm";
             ResumeLayout(false);
